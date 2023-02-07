@@ -6,7 +6,7 @@ require_once('books_appvars.php');
 // save database information to variables
 $servername = "localhost";
 $username = "root";
-$password = "@NicolaZoe!1";
+$password = "";
 $dbname = "db_books";
 
 // Check if data has been submitted
